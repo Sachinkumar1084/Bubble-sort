@@ -1,3 +1,6 @@
+// create an unsorted array from user input of size at least 6.
+// sort it using bubblesort
+// find an element from user input using binarySearch.
 #include <iostream>
 #include <array>
 using namespace std;
